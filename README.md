@@ -2,9 +2,9 @@
 
 step 1: first we have to make the Docker file for creating image.
 
-step 2: then build the image 
+step 2: then build the image using dockerbuild command
 
-step 3: then push the image into the docker hub
+step 3: then push the image into the docker hub using credentials and docker push command
 
 step 4: pull this image inside the local system in RHEL 9
 
